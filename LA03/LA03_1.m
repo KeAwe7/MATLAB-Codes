@@ -1,4 +1,4 @@
-x = 0:0.5:5*pi; % Tumanda, Keane Kiechel B.
+x = 0:0.5:5*pi;
 
 y1 = sin(x);
 y2 = sin(x+90);
